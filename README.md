@@ -1,4 +1,4 @@
 # Computational-methods-in-Finance
-Second project of the course "Computational methods in Finance", that I attended at "Instituto Superior Técnico of Lisbon" during my Erasmus on the second semester of my first Master's year (Spring 2022). I did it in a rush as always, so the implementation is very ugly and improvable. 
+These are a selection of exercises extracted from the second project of my 'Computational Methods in Finance' course, which I undertook at the 'Instituto Superior Técnico' in Lisbon during the second semester of my first year of Master's studies in Spring 2022. This project marked one of my initial experiences with coding and served as my introduction to Python. Therefore, there may be opportunities to optimize the code and improve its clarity.
 
-For a better compilation and reproduction I suggest either Google Colab or Jupyter Notebook.
+For better compilation and reproduction, I recommend using either Google Colab or Jupyter Notebook.
